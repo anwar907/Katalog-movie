@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Katalog Movie</string>
+    
+    <string-array name="data_name">
+        <item>Angry man</item>
+        <item>Good Bad Ugly</item>
+        <item>Good Fellas</item>
+        <item>Lord of the Ring</item>
+        <item>Shrelock</item>
+        <item>Spiderman</item>
+        <item>The Dark Knight</item>
+        <item>The Great Dictator</item>
+        <item>The Green Mile</item>
+        <item>Whiplash</item>
+    </string-array>
+<!--    <string-array name="data_description">-->
+<!--        <item>The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.</item>-->
+<!--        <item>While the Civil War rages between the Union and the Confederacy, three men – a quiet loner, a ruthless hit man and a Mexican bandit – comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.</item>-->
+<!--        <item>The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.</item>-->
+<!--        <item>Aragorn is revealed as the heir to the ancient kings as he, Gandalf and the other members of the broken fellowship struggle to save Gondor from Sauron's forces. Meanwhile, Frodo and Sam take the ring closer to the heart of Mordor, the dark lord's realm.</item>-->
+<!--        <item>A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.</item>-->
+<!--        <item>Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson "Kingpin" Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.</item>-->
+<!--        <item>Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.</item>-->
+<!--        <item>Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.</item>-->
+<!--        <item>A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.</item>-->
+<!--        <item>Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.</item>-->
+<!--    </string-array>-->
+    
+    <string-array name="data_photo">
+        <item>@drawable/angry_man</item>
+        <item>@drawable/good_bad_ugly</item>
+        <item>@drawable/good_fellas</item>
+        <item>@drawable/lord_of_the_ring</item>
+        <item>@drawable/sherelock</item>
+        <item>@drawable/spiderman</item>
+        <item>@drawable/the_dark_knight</item>
+        <item>@drawable/the_great_dictator</item>
+        <item>@drawable/the_green_mile</item>
+        <item>@drawable/whiplash</item>
+    </string-array>
+</resources>
